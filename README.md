@@ -1,1 +1,1 @@
-# quantum_comp_algorithms
+Random stuff related to quantum computing
